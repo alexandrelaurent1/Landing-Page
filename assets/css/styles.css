@@ -1,0 +1,36 @@
+@media screen and (max-width: 575px) {
+
+    .bg-orange {
+        background-color: orange;
+    }
+
+    
+    .bg-black {
+        background-color: black;
+    }
+
+    .grid {
+        display: grid;
+    }
+
+    .columns-5 {
+        columns: 5;
+    }
+    
+}
+
+@media screen and (min-width: 767px) {
+
+}
+
+@media screen and (max-width: 991px) {
+
+}
+    
+@media screen and (max-width: 1199px) {
+
+}
+
+@media screen and (max-width: 2560px) {
+
+}
