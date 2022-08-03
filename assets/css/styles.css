@@ -1,36 +1,62 @@
-@media screen and (max-width: 575px) {
-
-    .bg-orange {
-        background-color: orange;
-    }
-
-    
-    .bg-black {
-        background-color: black;
-    }
-
-    .grid {
-        display: grid;
-    }
-
-    .columns-5 {
-        columns: 5;
-    }
-    
+.bg-orange {
+  background-color: #e67b13;
 }
 
-@media screen and (min-width: 767px) {
-
+.bg-black {
+  background-color: black;
 }
 
-@media screen and (max-width: 991px) {
-
-}
-    
-@media screen and (max-width: 1199px) {
-
+.text-6xl {
+  font-size: 3.75rem;
+  line-height: 1;
 }
 
-@media screen and (max-width: 2560px) {
+.text-base {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
 
+.font-comfortaa {
+  font-family: comfortaa;
+}
+
+.mt-0 {
+  margin-top: -15px;
+}
+
+.mr-0 {
+  margin-right: 6px;
+}
+
+.mt-5 {
+  margin-top: 20px;
+}
+
+.mt-8 {
+  margin-top: 32px;
+}
+
+.mt-12 {
+  margin-top: 3rem;
+}
+
+.px-8 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.py-2.5 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.pl-44 {
+  padding-left: 11rem;
+}
+
+.opacity-20 {
+  opacity: 0.2;
+}
+.mix-blend-overlay {
+  mix-blend-mode: overlay;
 }
