@@ -3,7 +3,7 @@
 }
 
 .bg-black {
-  background-color: black;
+  background-color: #292d33;
 }
 
 .text-6xl {
@@ -57,6 +57,19 @@
 .opacity-20 {
   opacity: 0.2;
 }
-.mix-blend-overlay {
-  mix-blend-mode: overlay;
+ 
+.ml-12 {
+  margin-left: 3rem;
+}
+
+.z-0 {
+  z-index: 0;
+}
+
+.z-10 {
+  z-index: 10;
+}
+
+.a {
+  position: absolute;
 }
