@@ -1,3 +1,6 @@
+.bg-none {
+  background-image: none;
+}
 .bg-orange {
   background-color: #e67b13;
 }
@@ -71,5 +74,5 @@
 }
 
 .a {
-  position: absolute;
+  position: absolute
 }
