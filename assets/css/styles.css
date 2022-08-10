@@ -1,3 +1,5 @@
+
+  
 .bg-none {
   background-image: none;
 }
@@ -60,7 +62,7 @@
 .opacity-20 {
   opacity: 0.2;
 }
- 
+
 .ml-12 {
   margin-left: 3rem;
 }
@@ -76,3 +78,12 @@
 .a {
   position: absolute
 }
+
+.w-full {
+  width: 100%;
+}
+
+.text-left {
+  text-align: left
+}
+)
