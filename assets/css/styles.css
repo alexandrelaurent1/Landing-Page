@@ -11,6 +11,34 @@
   background-color: #292d33;
 }
 
+.bg-black-50 {
+background-color: #333333;
+}
+
+.text-beige {
+  color: #f5c79b;
+}
+
+.text-xs {
+  font-size: 0.75rem;
+  line-height: 1rem;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
+.text-3xl {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
 .text-6xl {
   font-size: 3.75rem;
   line-height: 1;
@@ -33,6 +61,18 @@
   margin-right: 6px;
 }
 
+.ml-12 {
+  margin-left: 3rem;
+}
+
+.ml-16{
+  margin-left: 4rem;
+}
+
+.ml-8 {
+  margin-left: 2rem;
+}
+
 .mt-5 {
   margin-top: 20px;
 }
@@ -43,6 +83,13 @@
 
 .mt-12 {
   margin-top: 3rem;
+}
+.mt-14 {
+  margin-top: 3.5rem;
+}
+
+.mt-60 {
+  margin-top: 15rem;
 }
 
 .px-8 {
@@ -63,9 +110,6 @@
   opacity: 0.2;
 }
 
-.ml-12 {
-  margin-left: 3rem;
-}
 
 .z-0 {
   z-index: 0;
@@ -86,4 +130,7 @@
 .text-left {
   text-align: left
 }
-)
+
+.bg-local {
+  background-attachment: local;
+}
